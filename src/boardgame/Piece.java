@@ -1,7 +1,4 @@
-package chess;
-
-import boardgame.Board;
-import boardgame.Position;
+package boardgame;
 
 public class Piece {
     
